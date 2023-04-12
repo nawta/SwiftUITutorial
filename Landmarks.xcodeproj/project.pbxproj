@@ -11,6 +11,7 @@
 		A399F3E129E6A0C200E79F6C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A399F3E029E6A0C200E79F6C /* ContentView.swift */; };
 		A399F3E329E6A0C300E79F6C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A399F3E229E6A0C300E79F6C /* Assets.xcassets */; };
 		A399F3E629E6A0C300E79F6C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A399F3E529E6A0C300E79F6C /* Preview Assets.xcassets */; };
+		A399F3EE29E6A88B00E79F6C /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A399F3ED29E6A88B00E79F6C /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		A399F3E229E6A0C300E79F6C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A399F3E529E6A0C300E79F6C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A399F3E729E6A0C300E79F6C /* Landmarks.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Landmarks.entitlements; sourceTree = "<group>"; };
+		A399F3ED29E6A88B00E79F6C /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				A399F3DE29E6A0C200E79F6C /* LandmarksApp.swift */,
 				A399F3E029E6A0C200E79F6C /* ContentView.swift */,
+				A399F3ED29E6A88B00E79F6C /* CircleImage.swift */,
 				A399F3E229E6A0C300E79F6C /* Assets.xcassets */,
 				A399F3E729E6A0C300E79F6C /* Landmarks.entitlements */,
 				A399F3E429E6A0C300E79F6C /* Preview Content */,
@@ -141,6 +144,7 @@
 			files = (
 				A399F3E129E6A0C200E79F6C /* ContentView.swift in Sources */,
 				A399F3DF29E6A0C200E79F6C /* LandmarksApp.swift in Sources */,
+				A399F3EE29E6A88B00E79F6C /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
